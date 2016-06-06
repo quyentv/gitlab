@@ -1,2 +1,2 @@
 # gitlab
-thuc hanh ve git
+Thực hành về git
